@@ -1,0 +1,30 @@
+{
+  "config": {
+    "config_id": "config",
+    "host": "192.168.1.132",
+    "port": "22",
+    "username": "u321ser123",
+    "password": "u321ser123"
+  },
+  "paths": {
+    "config_id": "paths",
+    "localDir": "client/src",
+    "remoteDir": "remote-folder/src"
+  },
+  "filesOrder": {
+    "config_id": "filesOrder",
+    "files": {
+      "1": [
+        "img/copyright.png",
+        "gulpfile.js"
+      ],
+      "2": [
+        "package.json",
+        "css/policy.css"
+      ]
+    }
+  }
+}
+
+
+
